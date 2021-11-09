@@ -11,8 +11,11 @@ We developed and compared deep learning models that used structured inputs and f
 ## Files 
 
 ```lowva-cutcohort.ipynb```: cohort identification 
+
 ```lowva-humanrating.ipynb```: human predictions on test set 
+
 ```lowva-structexamftengineer.ipynb```: feature engineering for structured variables 
+
 ```lowva-textprocessingforclamp.ipynb```: preprocesses sample of notes through CLAMP in preparation for annotation and validation 
 
 ```CLAMP_postprocessing.ipynb```: Post-processing from CLAMP outputs by 1) cleaning the data, 2) processing the different section headings, 3) formatting it for input into our models.
